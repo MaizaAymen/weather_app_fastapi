@@ -4,8 +4,8 @@ import requests
 
 app = FastAPI()
 
-API_KEY = "87bdf686e84f5a6de051ae507ec00cdb"
-BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
+API_KEY = "**********************"
+BASE_URL = "**********************************"
 
 
 class WeatherReq(BaseModel):
