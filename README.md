@@ -20,7 +20,7 @@ A simple full-stack Weather App built with **FastAPI** (backend), **Pydantic** (
 ### 1. Clone the Repository
 
 \`\`\`bash
-git clone https://github.com/your-username/weather-app.git
+git clone [https://github.com/your-username/weather-app.git](https://github.com/MaizaAymen/weather_app_fastapi.git)
 cd weather-app
 \`\`\`
 
